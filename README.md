@@ -1,5 +1,7 @@
-## Hi there 👋
-
+My name is Kevin Joseph
+I am currently learning about Business Analytics and I am an aspiring Data Scientist.
+My Linkedin: https://www.linkedin.com/in/kevin-joseph-in/ 
+I am also doing my MBA in Business Analytics 
 <!--
 **somebeing2/somebeing2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
