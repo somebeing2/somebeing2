@@ -1,18 +1,21 @@
-My name is Kevin Joseph
-I am currently learning about Business Analytics and I am an aspiring Data Scientist.
-My Linkedin: https://www.linkedin.com/in/kevin-joseph-in/ 
-I am also doing my MBA in Business Analytics 
-<!--
-**somebeing2/somebeing2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kevin Joseph
+I build retrieval and agentic AI systems for finance.
 
-Here are some ideas to get you started:
+Currently: MBA (Business Analytics) @ CHRIST University, Bengaluru · PG Program in Data Science & AI @ MIT xPRO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I've built
+ NL2SQL at Federal Bank — Built a production natural-language-to-SQL pipeline over a 900+ table Oracle schema during my AI/ML internship. Reconstructed a 6,284-entry decode-mapping knowledge base from incomplete documentation, live data distributions, and analyst interviews. Hybrid retrieval (BM25 + vector search + cross-encoder reranking + HyDE-lite) improved query accuracy from 25.9% to 83.0% on a 1,000-query test set. (Code confidential; 40+ page faculty-certified technical report available on request.)
+
+ FinSight India — Agentic RAG research assistant for Indian markets: hybrid retrieval (ChromaDB + BM25 + RRF) over annual reports and RBI circulars, with tool-calling agents, streaming, and cited answers.
+
+ Aurora — Prototype multi-agent platform (CrewAI + RAG) for IT-governance and regulatory risk review over policy circulars.
+
+ Loan Marketing Classification — End-to-end classification study with class-imbalance-aware evaluation (F1/ROC-AUC over accuracy), 5-fold GridSearchCV tuning, and a model leaderboard.
+
+Currently working on
+Benchmarking my NL2SQL retrieval architecture on public datasets (Spider / BIRD) — reproducible evaluation harness + error analysis
+Contributing to open-source financial AI (AI4Finance / FinGPT ecosystem)
+Elsewhere
+ Global Rank 10 / 3.3M+ on Unstop (Top 100 Unstoppable B-School Leader 2026); 21+ podium finishes incl. IIM Calcutta, XLRI; 1st Runner-Up, SPJIMR × HDFC Bank Vigil Fraudathon
+📜 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate · Bloomberg Market Concepts
+📫 Open to research collaborations (remote): kevin.joseph@mba.christuniversity.in · LinkedIn: https://www.linkedin.com/in/kevin-joseph-in/ 
