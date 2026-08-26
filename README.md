@@ -8,9 +8,8 @@ What I've built
 
  FinSight India — Agentic RAG research assistant for Indian markets: hybrid retrieval (ChromaDB + BM25 + RRF) over annual reports and RBI circulars, with tool-calling agents, streaming, and cited answers.
 
- Aurora — Prototype multi-agent platform (CrewAI + RAG) for IT-governance and regulatory risk review over policy circulars.
+ Aurora — Prototype multi-agent platform (CrewAI + RAG) for IT-governance and regulatory risk review over policy circulars.🖥️ **[Architect-WASM-IDE](https://github.com/somebeing2/architect-ide)** — Browser-native data science IDE: Python, R & SQL running entirely in-browser via WebAssembly, with zero-copy Apache Arrow data transfer. [Live demo](https://somebeing2.github.io/architect-ide/).
 
- Loan Marketing Classification — End-to-end classification study with class-imbalance-aware evaluation (F1/ROC-AUC over accuracy), 5-fold GridSearchCV tuning, and a model leaderboard.
 
 Currently working on
 Benchmarking my NL2SQL retrieval architecture on public datasets (Spider / BIRD) — reproducible evaluation harness + error analysis
