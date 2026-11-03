@@ -33,7 +33,9 @@ An independently developed project for the Paytm Build for India AI Hackathon, B
 - Provides voice-led explanations in Kannada, Hindi and English.
 - Demonstrated using a synthetic, seeded transaction ledger and a 21-test QA suite.
 
-*Independent hackathon project; not an official Paytm product. The project demo is available through my portfolio.*
+*Independent hackathon project; not an official Paytm product.*
+
+**[View Live Demo](https://somebeing2.github.io/) · [Source Code](https://github.com/somebeing2)**
 
 ### JOY · Live AI Voice Podcast Agent
 **React · Vite · FastAPI · Deepgram · Groq · edge-tts · BM25**
