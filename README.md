@@ -23,6 +23,7 @@ My work spans retrieval-augmented generation, voice interfaces, data analysis, f
 ## Featured Projects
 
 ### PaytmAI VyaparVoice · Merchant-Retention Voice Copilot
+
 **Python · FastAPI · SQLite · Sarvam AI · Groq**
 
 An independently developed project for the Paytm Build for India AI Hackathon, Bengaluru (Track 1: Merchant Growth AI). Selected as a finalist.
@@ -35,7 +36,7 @@ An independently developed project for the Paytm Build for India AI Hackathon, B
 
 *Independent hackathon project; not an official Paytm product.*
 
-**[View Live Demo](https://somebeing2.github.io/) · [Source Code](https://github.com/somebeing2)**
+**[Live Demo](https://paytmai-vyaparvoice.onrender.com/) · [Source Code](https://github.com/somebeing2/paytmai-vyaparvoice)**
 
 ### JOY · Live AI Voice Podcast Agent
 **React · Vite · FastAPI · Deepgram · Groq · edge-tts · BM25**
